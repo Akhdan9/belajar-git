@@ -1,21 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Latihan 1 </title>
-    <style>
-      table { border-collapse:collapse; }
-      th,td {width: 150px; height: 30px; color: white;}
-      th {background-color: gray; }
-      tbody tr:nth-child(odd) td {background-color: green;}
-      tbody tr:nth-child(even) td {background-color: black;}
-      tbody tr:nth-child(odd):hover td {
-        background-color: white;
-        color: green;
-      }
-      tbody tr:nth-child(even):hover td {background-color: white;
-        color: black;
-      }
-    </style>
   </head>
   <body>
     <table>
